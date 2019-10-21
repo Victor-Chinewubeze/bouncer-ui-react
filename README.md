@@ -1,3 +1,5 @@
+I kinda made a mistake and named this repo 'bouncer' ... So ... Wherever you want to type 'origin', type 'bouncer' instead. Don't forget abeg
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
