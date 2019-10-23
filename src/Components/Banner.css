@@ -1,0 +1,18 @@
+.carousel-slider {
+    overflow: hidden;
+    background: transparent linear-gradient(63deg, #FF4858 0%, #8F65FF 100%) 0% 0% no-repeat padding-box;
+    padding-top: 50px;
+  }
+  
+  .carousel-item h3, .carousel-item a{
+    text-align: left;
+    width: 50%;
+  }
+  
+  
+  @media (min-width: 992px) { 
+  
+  
+  
+  }
+  
