@@ -1,0 +1,39 @@
+
+    .header {
+        display: flex;
+        flex-flow: column wrap;
+      }
+      
+      .line1 {
+        display: flex;
+        justify-content: space-around;
+        padding: 10px 0;
+      }
+      
+      .preferences {
+        display: flex;
+      }
+      
+      .preferences > * {
+        margin: 0 20px;
+      }
+      
+      .customer-info > * {
+        margin: 0 20px;
+      }
+      
+      .nav-link {
+        color: #22262A !important;
+        margin: 0 20px;
+      }
+      
+      .active {
+          color: #33A0FF !important;
+      } 
+
+
+@media (min-width: 992px) { 
+
+   
+    
+ }
